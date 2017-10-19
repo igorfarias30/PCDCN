@@ -12,6 +12,8 @@ Requisitos
 - Cplex (IBM) - Solver
 
 ### Compilando
+-- Mudar para o diretório de Implementação
+-- Executar o Makefile
 ```
 $ make
 ```
@@ -22,7 +24,7 @@ $ make
 - Ex.:
 
 ```
-$ ./main inst_10_6_50_1.txt 0.75 0.25 2
+$ ./main instances/inst_10_6_50_1.txt 0.75 0.25 2
 ```
 
 Licença & Autor
