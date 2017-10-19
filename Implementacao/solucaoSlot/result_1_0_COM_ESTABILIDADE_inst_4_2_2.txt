@@ -1,0 +1,36 @@
+Informações: 
+Valor de alfa: 1
+Valor de beta: 0
+Com REGRA de ESTABILIDADE 
+
+Porto: 1
+Número de slots ocupados: 3
+30
+32
+
+Porto: 2
+Número de slots ocupados: 3
+Número de rearranjos: 0
+30
+34
+
+Porto: 3
+Número de slots ocupados: 2
+Número de rearranjos: 0
+00
+44
+
+Porto: 4
+Número de slots ocupados: 0
+00
+00
+
+Rearranjos: 0	| Movimentos: 0
+
+-------------------------------
+Status: Optimal
+Numero de Nos: 0
+Numero de Iteracoes: 12
+Funcao Objetivo: 0
+Numeto Total de Movimentos Realizados: 10
+Gap: 0%

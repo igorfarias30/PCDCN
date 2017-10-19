@@ -1,0 +1,254 @@
+Informações: 
+Valor de alfa: 0.25
+Valor de beta: 0.75
+Sem REGRA de ESTABILIDADE 
+
+Porto: 1
+Número de slots ocupados: 82
+00000000000000000007743774734727000000000000000000
+00000000000000000007743774744747000000000000000000
+00000000000000000047744774734747000000000000000000
+00000000000000000047743774734747000000000000000000
+00000000000000000037744774734757000000000000000000
+00000000000000000047774774738757000000000000000000
+
+Porto: 2
+Número de slots ocupados: 104
+Número de rearranjos: 0
+00000000000000000547743774034730400000000000000000
+00000000000000000547743774004700800000000000000000
+00000000000000005507740774034700550000000000000000
+00000000000000005507743774034700550000000000000000
+00000000000000005537740774034750850000000000000000
+00000000000000005507700774038750850000000000000000
+
+Porto: 3
+Número de slots ocupados: 192
+Número de rearranjos: 12
+000000000448888855877487740847504888888104000000000
+000000000104888888587748774084780088888844000000000
+00000000084888885587748774084780558888858000000000
+00000000084888585587748774084750558888844000000000
+00000000048888885507748774084750058888848000000000
+00000000048888585587705774088750058888848000000000
+
+Porto: 4
+Número de slots ocupados: 168
+Número de rearranjos: 10
+00000000000888085507750775088750500808800000000000
+00000000000888080507780777008700000808800000000000
+00000000000888085507780777088700550808800000000000
+00000000000888585507750777088700550808800000000000
+000000000008880855077507710088750050808800000000000
+000000000008885855077007710088750050808800000000000
+
+Porto: 5
+Número de slots ocupados: 240
+Número de rearranjos: 26
+0000086108988889810100771010771008871001010108088710899800000
+00000898881088810810100771010770008710010101080888810981000000
+0000081081088888108101007710107700887100101010808810981081000000
+00000881088888810810100771010770088710010101080888910810800000
+00000108810888881081010077101077100887100101010808810881081000000
+000008881010108881081010077101077100887100101010808881091010900000
+
+Porto: 6
+Número de slots ocupados: 299
+Número de rearranjos: 22
+01010108890808888081010077100771010887101010008988708008810101010
+101010988088808880801007700771010087010000898888008081010107
+1077109808088888081010077007710108870101010089880080808771010
+1010107888088888810810100771007710108871010101008988800808910101010
+71010780880888880810100771007710108871010010089880880809710107
+7771098880008881081010077010771010887101001008988800000977710
+
+Porto: 7
+Número de slots ocupados: 252
+Número de rearranjos: 31
+000088008088880810100101010010100088101001000808890800880000
+00008808880888080100101000101000081000000808888008080000
+00000808088888081010010100010100088100010100808800808080000
+00008880888888108101001010100101000881010010100808880080800000
+0000808808888808101001010100101010088101000100808808808000000
+00000888000888108101001010010101010088101000100808880000000000
+
+Porto: 8
+Número de slots ocupados: 152
+Número de rearranjos: 40
+0000000000000901010101010101001010001010101001000900000000000000
+000000000000090100101010100010100010101000000900000000000000
+0000000000009901010101010100010100010101000101001009000000000000
+0000000000009910101010101010100101000101010100101001009000000000000
+000000000000990101010101010100101010010101010001001009000000000000
+0000000000009910101010101010010101010010101010001001009000000000000
+
+Porto: 9
+Número de slots ocupados: 129
+Número de rearranjos: 0
+0000000000000001010101010101001010001010101001000000000000000000
+000000000000000100101010100010100010101000000000000000000000
+0000000000000001010101010100010100010101000101001000000000000000
+0000000000000010101010101010100101000101010100101001000000000000000
+000000000000000101010101010100101010010101010001001000000000000000
+0000000000000010101010101010010101010010101010001001000000000000000
+
+Porto: 10
+Número de slots ocupados: 0
+00000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000
+
+Porto: 1 -> 4	| Rearranjo: 3	| Slot: (1, 19)
+Porto: 1 -> 4	| Rearranjo: 3	| Slot: (1, 23)
+Porto: 1 -> 4	| Rearranjo: 3	| Slot: (2, 23)
+Porto: 1 -> 4	| Rearranjo: 3	| Slot: (3, 19)
+Porto: 1 -> 4	| Rearranjo: 3	| Slot: (3, 31)
+Porto: 1 -> 4	| Rearranjo: 3	| Slot: (4, 19)
+Porto: 1 -> 4	| Rearranjo: 3	| Slot: (4, 23)
+Porto: 1 -> 4	| Rearranjo: 3	| Slot: (4, 31)
+Porto: 1 -> 4	| Rearranjo: 3	| Slot: (5, 28)
+Porto: 1 -> 4	| Rearranjo: 3	| Slot: (5, 31)
+Porto: 2 -> 4	| Rearranjo: 3	| Slot: (5, 19)
+Porto: 2 -> 4	| Rearranjo: 3	| Slot: (6, 19)
+Porto: 3 -> 5	| Rearranjo: 4	| Slot: (4, 40)
+Porto: 3 -> 8	| Rearranjo: 4	| Slot: (1, 11)
+Porto: 3 -> 8	| Rearranjo: 4	| Slot: (1, 41)
+Porto: 3 -> 8	| Rearranjo: 4	| Slot: (2, 11)
+Porto: 3 -> 8	| Rearranjo: 4	| Slot: (2, 41)
+Porto: 3 -> 8	| Rearranjo: 4	| Slot: (3, 10)
+Porto: 3 -> 8	| Rearranjo: 4	| Slot: (4, 10)
+Porto: 3 -> 8	| Rearranjo: 4	| Slot: (4, 41)
+Porto: 3 -> 10	| Rearranjo: 4	| Slot: (5, 10)
+Porto: 3 -> 10	| Rearranjo: 4	| Slot: (6, 40)
+Porto: 1 -> 7	| Rearranjo: 5	| Slot: (1, 22)
+Porto: 2 -> 8	| Rearranjo: 5	| Slot: (1, 33)
+Porto: 2 -> 8	| Rearranjo: 5	| Slot: (2, 33)
+Porto: 2 -> 8	| Rearranjo: 5	| Slot: (5, 33)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (1, 35)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (2, 15)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (2, 23)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (2, 35)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (3, 23)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (3, 35)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (4, 15)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (4, 23)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (4, 31)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (4, 35)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (5, 15)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (5, 17)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (5, 23)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (5, 31)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (5, 34)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (5, 35)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (6, 15)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (6, 23)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (6, 34)
+Porto: 3 -> 8	| Rearranjo: 5	| Slot: (6, 35)
+Porto: 4 -> 8	| Rearranjo: 5	| Slot: (4, 22)
+Porto: 4 -> 8	| Rearranjo: 5	| Slot: (5, 22)
+Porto: 1 -> 7	| Rearranjo: 6	| Slot: (1, 27)
+Porto: 1 -> 7	| Rearranjo: 6	| Slot: (1, 32)
+Porto: 1 -> 7	| Rearranjo: 6	| Slot: (2, 27)
+Porto: 1 -> 7	| Rearranjo: 6	| Slot: (2, 32)
+Porto: 1 -> 7	| Rearranjo: 6	| Slot: (3, 27)
+Porto: 1 -> 7	| Rearranjo: 6	| Slot: (3, 32)
+Porto: 1 -> 7	| Rearranjo: 6	| Slot: (4, 27)
+Porto: 1 -> 7	| Rearranjo: 6	| Slot: (4, 32)
+Porto: 1 -> 7	| Rearranjo: 6	| Slot: (5, 27)
+Porto: 1 -> 7	| Rearranjo: 6	| Slot: (5, 32)
+Porto: 1 -> 7	| Rearranjo: 6	| Slot: (6, 27)
+Porto: 1 -> 7	| Rearranjo: 6	| Slot: (6, 32)
+Porto: 3 -> 8	| Rearranjo: 6	| Slot: (1, 37)
+Porto: 3 -> 8	| Rearranjo: 6	| Slot: (2, 37)
+Porto: 3 -> 8	| Rearranjo: 6	| Slot: (3, 37)
+Porto: 3 -> 8	| Rearranjo: 6	| Slot: (4, 37)
+Porto: 3 -> 8	| Rearranjo: 6	| Slot: (5, 37)
+Porto: 3 -> 8	| Rearranjo: 6	| Slot: (6, 37)
+Porto: 4 -> 7	| Rearranjo: 6	| Slot: (3, 26)
+Porto: 4 -> 7	| Rearranjo: 6	| Slot: (4, 26)
+Porto: 4 -> 7	| Rearranjo: 6	| Slot: (5, 26)
+Porto: 5 -> 10	| Rearranjo: 6	| Slot: (6, 26)
+Porto: 6 -> 9	| Rearranjo: 7	| Slot: (5, 4)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (1, 4)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (1, 50)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (2, 2)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (2, 3)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (2, 48)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (2, 49)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (3, 1)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (3, 2)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (3, 3)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (3, 47)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (3, 48)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (3, 49)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (3, 50)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (4, 1)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (4, 4)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (4, 49)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (4, 50)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (5, 1)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (5, 2)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (5, 3)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (5, 47)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (5, 48)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (5, 49)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (6, 2)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (6, 3)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (6, 4)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (6, 47)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (6, 48)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (6, 49)
+Porto: 6 -> 10	| Rearranjo: 7	| Slot: (6, 50)
+Porto: 5 -> 9	| Rearranjo: 8	| Slot: (1, 42)
+Porto: 5 -> 9	| Rearranjo: 8	| Slot: (1, 45)
+Porto: 5 -> 9	| Rearranjo: 8	| Slot: (3, 41)
+Porto: 5 -> 9	| Rearranjo: 8	| Slot: (4, 41)
+Porto: 5 -> 9	| Rearranjo: 8	| Slot: (5, 7)
+Porto: 5 -> 9	| Rearranjo: 8	| Slot: (5, 43)
+Porto: 5 -> 9	| Rearranjo: 8	| Slot: (6, 10)
+Porto: 5 -> 9	| Rearranjo: 8	| Slot: (6, 43)
+Porto: 5 -> 9	| Rearranjo: 8	| Slot: (6, 44)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (1, 9)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (1, 10)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (1, 11)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (1, 41)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (1, 43)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (1, 44)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (2, 6)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (2, 9)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (2, 40)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (2, 43)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (2, 45)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (3, 8)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (3, 42)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (3, 44)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (4, 7)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (4, 9)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (4, 40)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (4, 43)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (4, 45)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (5, 11)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (5, 42)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (5, 45)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (6, 8)
+Porto: 5 -> 10	| Rearranjo: 8	| Slot: (6, 41)
+Porto: 6 -> 9	| Rearranjo: 8	| Slot: (1, 5)
+Porto: 6 -> 9	| Rearranjo: 8	| Slot: (1, 46)
+Porto: 6 -> 9	| Rearranjo: 8	| Slot: (2, 46)
+Porto: 6 -> 9	| Rearranjo: 8	| Slot: (3, 46)
+Porto: 6 -> 9	| Rearranjo: 8	| Slot: (4, 5)
+Porto: 6 -> 9	| Rearranjo: 8	| Slot: (6, 7)
+Porto: 7 -> 9	| Rearranjo: 8	| Slot: (6, 40)
+Rearranjos: 141	| Movimentos: 282
+
+-------------------------------
+Status: Optimal
+Numero de Nos: 0
+Numero de Iteracoes: 2153
+Funcao Objetivo: 10802.2
+Numeto Total de Movimentos Realizados: 1032
+Gap: 0.00435117%
+Tempo: 76.55 s
